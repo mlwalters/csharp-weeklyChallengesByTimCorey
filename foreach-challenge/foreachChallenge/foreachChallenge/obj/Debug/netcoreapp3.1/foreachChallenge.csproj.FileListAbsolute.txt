@@ -1,0 +1,13 @@
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\bin\Debug\netcoreapp3.1\foreachChallenge.exe
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\bin\Debug\netcoreapp3.1\foreachChallenge.deps.json
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\bin\Debug\netcoreapp3.1\foreachChallenge.runtimeconfig.json
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\bin\Debug\netcoreapp3.1\foreachChallenge.runtimeconfig.dev.json
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\bin\Debug\netcoreapp3.1\foreachChallenge.dll
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\bin\Debug\netcoreapp3.1\foreachChallenge.pdb
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\obj\Debug\netcoreapp3.1\foreachChallenge.csprojAssemblyReference.cache
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\obj\Debug\netcoreapp3.1\foreachChallenge.AssemblyInfoInputs.cache
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\obj\Debug\netcoreapp3.1\foreachChallenge.AssemblyInfo.cs
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\obj\Debug\netcoreapp3.1\foreachChallenge.csproj.CoreCompileInputs.cache
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\obj\Debug\netcoreapp3.1\foreachChallenge.dll
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\obj\Debug\netcoreapp3.1\foreachChallenge.pdb
+C:\Users\racir\source\repos\cSharpWeeklyChallenges\foreach-challenge\foreachChallenge\foreachChallenge\obj\Debug\netcoreapp3.1\foreachChallenge.genruntimeconfig.cache
